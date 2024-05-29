@@ -3,7 +3,10 @@ The supply chain dataset consists of 24 columns and 100 rows, containing informa
 # Problem statement 
 The supply chain dataset offers a detailed overview of product sales, suppliers, transportation, and logistics. In this project, I aim to extract meaningful insights and provide recommendations to optimize supply chain operations.
 # Tools Used
+![image](https://github.com/Dianamod/Projects/assets/171150402/084cad91-a310-4841-9de1-eccd70f7f12c)
 MySql
+
+![image](https://github.com/Dianamod/Projects/assets/171150402/98c373c3-424f-45cb-b03a-6d40f765b584)
 Tableau
 # MySql Analysis 
 In this analysis, I used MySQL to address the following questions:
