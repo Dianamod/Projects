@@ -14,18 +14,18 @@ Total Revenue by Product Type. Identify the most profitable products.
 ![image](https://github.com/Dianamod/Projects/assets/171150402/8459b773-43b0-49b6-88a9-1b51cba69e98)
 Total Products Sold by Supplier. Determine which supplier supplies the most items.
 
-![image](https://github.com/Dianamod/Projects/assets/171150402/248ec321-d5de-4ca0-aa98-10b157befcb8)
+![image](https://github.com/Dianamod/Projects/assets/171150402/3d2ab343-96d5-4bb6-a979-343e10d94fe5)
 Total Products Sold by Location. Calculate the total number of items supplied to each location.
 
-![image](https://github.com/Dianamod/Projects/assets/171150402/71a625af-edc1-4842-b58c-414089378312)
+![image](https://github.com/Dianamod/Projects/assets/171150402/eb254650-8daa-48bf-b83c-0cd57c3bbb8b)
 Shipping Cost by Carrier. Identify the most cost-effective carrier.
 
-![image](https://github.com/Dianamod/Projects/assets/171150402/a1275fb5-c3b3-43b5-888b-f90da6f9d6b5)
+![image](https://github.com/Dianamod/Projects/assets/171150402/ae03dfbb-38ce-4900-b2ea-f5f856e99330)
 Inspection Results by Supplier. Determine the number of products that failed inspection and identify suppliers with high failure rates.
 
-![image](https://github.com/Dianamod/Projects/assets/171150402/20c1d1b2-6bf6-4d09-9dce-0e2d2ef8d4ef)
+![image](https://github.com/Dianamod/Projects/assets/171150402/ac330813-038a-4aaa-8f93-674e174b4031)
 Lead Time by Supplier. Calculate the average lead time for each supplier to assess their reliability.
 
-![image](https://github.com/Dianamod/Projects/assets/171150402/ee70169f-42f3-478d-b02e-0968c4869eea)
+![image](https://github.com/Dianamod/Projects/assets/171150402/9446c38c-13f4-420a-961e-6c5fab0eac0f)
 Top 3 Products by Shipping Cost. Identify the top 3 SKUs for each carrier that have the highest shipping costs per product shipped.
 
