@@ -33,7 +33,7 @@ Lead Time by Supplier. Calculate the average lead time for each supplier to asse
 Top 3 Products by Shipping Cost. Identify the top 3 SKUs for each carrier that have the highest shipping costs per product shipped.
 
 # Tableau analysis 
-In tableau I used charts, tables and KPIs that provide quick insights into the data set. 
+In Tableau I used charts, tables and KPIs that provide quick insights into the data set. 
 The following Key Performance Indicators (KPIs) are provided in dashboards:
 1.	Failure rate 
 2.	Avg defect rate
@@ -92,7 +92,7 @@ Insights:
 
 ●Analyzing customer demographics by product sold reveals that the female group purchases skincare and cosmetics products, while the mail group opts for products in haircare and skincare. An unknown group category purchases a higher quantity of all three products. Skincare products are the most popular among all products.
 
-# Link 
+# Dashboard Links 
 [SUPPLIER PERFORMACE ANALYSIS ](https://public.tableau.com/views/Supplierperformanceanlysis/Supplierperformance?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
