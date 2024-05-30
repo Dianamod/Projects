@@ -9,7 +9,10 @@ MySql
 ![image](https://github.com/Dianamod/Projects/assets/171150402/98c373c3-424f-45cb-b03a-6d40f765b584)
 Tableau
 # MySql Analysis 
-In this analysis, I used MySQL to address the following questions:
+
+For this project I used star schema data modeling technique and classified dataset into dimensions tables and fact table.
+
+I used MySQL to address the following questions:
 
 ![image](https://github.com/Dianamod/Projects/assets/171150402/35455d39-f93c-40ca-86a7-4903c535c3c4)
 Total Revenue by Product Type. Identify the most profitable products.
