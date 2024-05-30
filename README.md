@@ -93,6 +93,6 @@ Insights:
 ●Analyzing customer demographics by product sold reveals that the female group purchases skincare and cosmetics products, while the mail group opts for products in haircare and skincare. An unknown group category purchases a higher quantity of all three products. Skincare products are the most popular among all products.
 
 # Link 
-SUPPLIER PERFORMACE ANALYSIS 
+[SUPPLIER PERFORMACE ANALYSIS ](https://public.tableau.com/views/Supplierperformanceanlysis/Supplierperformance?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-https://public.tableau.com/views/Supplychaindatasetdashboards/ShippingLogistics?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
