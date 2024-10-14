@@ -8,7 +8,7 @@ join dim_products p using(product_id)
 group by p.product_type
 order by p.product_type desc;
  
- -- comment for testing testing branch
+ -- comment for testing 
 
 -- 2. Total products sold by supplier
 use sql_project;
